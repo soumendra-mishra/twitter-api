@@ -1,2 +1,2 @@
 # twitter-api
-Twitter API
+Twitter API running on Google Compute Engine

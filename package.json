@@ -1,0 +1,22 @@
+{
+  "name": "twitter-api",
+  "description": "Twitter API",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Soumendra",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "twitter": "^1.7.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "express": "^4.16.3",
+    "@google-cloud/storage": "^4.7.0"
+  }
+}
